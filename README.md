@@ -85,24 +85,15 @@ One of my greatest passions is to constantly swim in the endless waves of change
 ## 🌟 Öne Çıkan Projeler
 
 <!-- Öne çıkan projelerinizi buraya ekleyin -->
-- [**Proje 1**](https://github.com/[KULLANICI_ADINIZ]/proje1) - Kısa açıklama ve kullanılan teknolojiler
-- [**Proje 2**](https://github.com/[KULLANICI_ADINIZ]/proje2) - Kısa açıklama ve kullanılan teknolojiler
-- [**Proje 3**](https://github.com/[KULLANICI_ADINIZ]/proje3) - Kısa açıklama ve kullanılan teknolojiler
+- [**Proje 1**](https://github.com/CemAkr30/voxx-car-systems-project) - Kısa açıklama ve kullanılan teknolojiler
 
 ## 📝 Son Blog Yazılarım
 
-<!-- Medium veya kişisel blogunuzdan son yazılarınızı ekleyin -->
-- [Yazı Başlığı 1](https://medium.com/@[kullaniciadiniz]/yazi-linki-1)
-- [Yazı Başlığı 2](https://medium.com/@[kullaniciadiniz]/yazi-linki-2)
-- [Yazı Başlığı 3](https://medium.com/@[kullaniciadiniz]/yazi-linki-3)
-
 ## 📫 Bana Ulaşın
 
-- 📧 Email: [email@adresiniz.com](mailto:email@adresiniz.com)
-- 💼 LinkedIn: [linkedin.com/in/[profiliniz]](https://linkedin.com/in/[profiliniz])
-- 🐦 Twitter: [twitter.com/[kullaniciadiniz]](https://twitter.com/[kullaniciadiniz])
-- 🌐 Website: [websiteadresiniz.com](https://websiteadresiniz.com)
+- 📧 Email: [email@adresiniz.com](mailto:cem.akar6@gmail.com)
+- 💼 LinkedIn: [[linkedin.com/in/[profiliniz]](https://linkedin.com/in/[profiliniz])](https://www.linkedin.com/in/cem-akar-5bb409240/)
 
 ---
 
-⭐️ Bu profilden [GitHub](https://github.com/[KULLANICI_ADINIZ]) adresimden ulaşabilirsiniz.
+⭐️ Bu profilden [GitHub](https://github.com/CemAkr30) adresimden ulaşabilirsiniz.
