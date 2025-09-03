@@ -2,10 +2,7 @@
 
 **Staff Engineer | System & API Design | Cloud-Native | DevOps-Aware**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[profiliniz])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[kullaniciadiniz])
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@[kullaniciadiniz])
-[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://[websiteadresiniz].com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cem-akar-5bb409240/)
 
 ## 🚀 Hakkımda
 
@@ -27,7 +24,7 @@ One of my greatest passions is to constantly swim in the endless waves of change
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Micronaut](https://img.shields.io/badge/Micronaut-3B7CC4?style=flat-square&logo=micronaut&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -46,6 +43,7 @@ One of my greatest passions is to constantly swim in the endless waves of change
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=flat-square&logo=couchbase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 
 ### 📊 Observability & Monitoring
@@ -73,14 +71,19 @@ One of my greatest passions is to constantly swim in the endless waves of change
 ![Docker Registry](https://img.shields.io/badge/Docker_Registry-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### 🧪 Testing & Performance
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-Expert-00C851?style=flat-square)
+![Integration Testing](https://img.shields.io/badge/Integration_Testing-Expert-00C851?style=flat-square)
+![Test Containers](https://img.shields.io/badge/Test_Containers-2496ED?style=flat-square&logo=docker&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78C257?style=flat-square)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
 ![Locust](https://img.shields.io/badge/Locust-9C3AFF?style=flat-square)
 
 ## 📈 GitHub İstatistiklerim
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[KULLANICI_ADINIZ]&show_icons=true&theme=radical&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CemAkr30&show_icons=true&theme=radical&hide_title=true)
 
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=[KULLANICI_ADINIZ]&layout=compact&theme=radical&hide_title=true)
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=CemAkr30&layout=compact&theme=radical&hide_title=true)
 
 ## 🌟 Öne Çıkan Projeler
 
@@ -91,8 +94,8 @@ One of my greatest passions is to constantly swim in the endless waves of change
 
 ## 📫 Bana Ulaşın
 
-- 📧 Email: [email@adresiniz.com](mailto:cem.akar6@gmail.com)
-- 💼 LinkedIn: [[linkedin.com/in/[profiliniz]](https://linkedin.com/in/[profiliniz])](https://www.linkedin.com/in/cem-akar-5bb409240/)
+- 📧 Email: cem.akar6@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/cem-akar-5bb409240/
 
 ---
 
