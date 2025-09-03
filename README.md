@@ -88,7 +88,7 @@ One of my greatest passions is to constantly swim in the endless waves of change
 ## 🌟 Öne Çıkan Projeler
 
 <!-- Öne çıkan projelerinizi buraya ekleyin -->
-- [**Proje 1**](https://github.com/CemAkr30/voxx-car-systems-project) - Kısa açıklama ve kullanılan teknolojiler
+- [**Proje 1**](https://github.com/CemAkr30/voxx-car-systems-project) - Spring Boot, Hexagonal Architecture, DDD, CQRS, Kafka, WebSocket, React.js, PostgreSQL, Couchbase, Keycloak
 
 ## 📝 Son Blog Yazılarım
 
