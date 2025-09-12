@@ -92,6 +92,8 @@ One of my greatest passions is to constantly swim in the endless waves of change
 
 ## 📝 Son Blog Yazılarım
 
+- https://medium.com/@cemakar6/locust-ile-performans-testi-master-worker-yap%C4%B1s%C4%B1-ve-proxy-middleware-c8e224b6de5f
+
 ## 📫 Bana Ulaşın
 
 - 📧 Email: cem.akar6@gmail.com
