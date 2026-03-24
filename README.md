@@ -1,104 +1,124 @@
-# 👋 Merhaba, Ben Cem AKAR
+# Hey, I'm Cem AKAR 👋
 
-**Staff Engineer | System & API Design | Cloud-Native | DevOps-Aware**
+**Staff Engineer at GİB Teknoloji** — Building scalable microservice platforms for Turkey's tax declaration systems.
+
+I design and build platform-level infrastructure: API Gateways, cache management systems, message queue services, and performance testing tools. I care about clean architecture, reliable distributed systems, and solving real problems at scale.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cem-akar-5bb409240/)
-
-## 🚀 Hakkımda
-
-One of my greatest passions is to constantly swim in the endless waves of change and development of the software development world. Always following the latest trends and technological innovations, it has become not just a job but also a passion. With my ability to react quickly and flexibly to new solutions, I focus on producing innovative and creative solutions to every challenge. Because only in this way can I take steps forward and make a real difference in the software world.
-
-**Şu an aktif olarak** GIB Teknoloji'de **Staff Engineer** olarak çalışmaktayım.
-
-## 💼 Teknik Uzmanlık Alanları
-
-### 🏗️ Architecture & Design
-![System Design](https://img.shields.io/badge/System_Design-Expert-8A2BE2?style=flat-square)
-![API Design](https://img.shields.io/badge/API_Design-Expert-8A2BE2?style=flat-square)
-![Cloud Native](https://img.shields.io/badge/Cloud_Native-Expert-8A2BE2?style=flat-square)
-![Microservices](https://img.shields.io/badge/Microservices-Expert-8A2BE2?style=flat-square)
-![Software Architecture](https://img.shields.io/badge/Software_Architecture-Expert-8A2BE2?style=flat-square)
-
-### 🛠️ Programming Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Micronaut](https://img.shields.io/badge/Micronaut-3B7CC4?style=flat-square&logo=micronaut&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-Expert-FF6B6B?style=flat-square)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=flat-square&logo=couchbase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-
-### 📊 Observability & Monitoring
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Jaeger](https://img.shields.io/badge/Jaeger-3EAAAF?style=flat-square)
-![Zipkin](https://img.shields.io/badge/Zipkin-6B6B6B?style=flat-square)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
-![Elastic APM](https://img.shields.io/badge/Elastic_APM-005571?style=flat-square&logo=elasticstack&logoColor=white)
-![Glowroot](https://img.shields.io/badge/Glowroot-4B0082?style=flat-square)
-
-### 🔌 API Technologies
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6A33?style=flat-square&logo=rest&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![SOAP](https://img.shields.io/badge/SOAP-777777?style=flat-square)
-
-### 📦 Other Technologies
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Hazelcast](https://img.shields.io/badge/Hazelcast-0D7CBC?style=flat-square&logo=hazelcast&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![Nexus](https://img.shields.io/badge/Nexus-68A138?style=flat-square)
-![Docker Registry](https://img.shields.io/badge/Docker_Registry-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### 🧪 Testing & Performance
-![Unit Testing](https://img.shields.io/badge/Unit_Testing-Expert-00C851?style=flat-square)
-![Integration Testing](https://img.shields.io/badge/Integration_Testing-Expert-00C851?style=flat-square)
-![Test Containers](https://img.shields.io/badge/Test_Containers-2496ED?style=flat-square&logo=docker&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-78C257?style=flat-square)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
-![Locust](https://img.shields.io/badge/Locust-9C3AFF?style=flat-square)
-
-## 📈 GitHub İstatistiklerim
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CemAkr30&show_icons=true&theme=radical&hide_title=true)
-
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=CemAkr30&layout=compact&theme=radical&hide_title=true)
-
-## 🌟 Öne Çıkan Projeler
-
-<!-- Öne çıkan projelerinizi buraya ekleyin -->
-- [**Proje 1**](https://github.com/CemAkr30/voxx-car-systems-project) - Spring Boot, Hexagonal Architecture, DDD, CQRS, Kafka, WebSocket, React.js, PostgreSQL, Couchbase, Keycloak
-
-## 📝 Son Blog Yazılarım
-
-- https://medium.com/@cemakar6/locust-ile-performans-testi-master-worker-yap%C4%B1s%C4%B1-ve-proxy-middleware-c8e224b6de5f
-
-## 📫 Bana Ulaşın
-
-- 📧 Email: cem.akar6@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/cem-akar-5bb409240/
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cemakar6)
 
 ---
 
-⭐️ Bu profilden [GitHub](https://github.com/CemAkr30) adresimden ulaşabilirsiniz.
+## 🏗️ What I Build
+
+I focus on **platform engineering** — designing shared infrastructure that other teams use to build their services.
+
+**At GİB Teknoloji (current):**
+- Designed a **dynamic cache management platform** with feature flags, pub/sub sync, and runtime cache/DB switching
+- Built an **API Gateway** with custom authorization filters, request tracing, and Helm-based multi-env deployment
+- Created a **queue management service** with RabbitMQ, Hazelcast fallback, Outbox Pattern, and Leader Election
+- Developed a **performance testing infrastructure** using Locust master-worker architecture with custom proxy middleware
+- Built **common library ecosystem** (5 shared JARs) used across all microservices in the organization
+
+---
+
+## 🛠️ Tech Stack
+
+**Primary — I use these daily in production:**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Cloud Gateway](https://img.shields.io/badge/Spring_Cloud_Gateway-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+**Architecture & Patterns:**
+
+![Hexagonal](https://img.shields.io/badge/Hexagonal_Architecture-2E86C1?style=flat-square)
+![CQRS](https://img.shields.io/badge/CQRS-2E86C1?style=flat-square)
+![DDD](https://img.shields.io/badge/DDD-2E86C1?style=flat-square)
+![Outbox Pattern](https://img.shields.io/badge/Outbox_Pattern-2E86C1?style=flat-square)
+![Saga](https://img.shields.io/badge/Saga_Pattern-2E86C1?style=flat-square)
+![Leader Election](https://img.shields.io/badge/Leader_Election-2E86C1?style=flat-square)
+![Event Driven](https://img.shields.io/badge/Event_Driven-2E86C1?style=flat-square)
+
+**Observability:**
+
+![ELK Stack](https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elasticstack&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Jaeger](https://img.shields.io/badge/Jaeger-3EAAAF?style=flat-square)
+![Elastic APM](https://img.shields.io/badge/Elastic_APM-005571?style=flat-square&logo=elasticstack&logoColor=white)
+
+**Testing:**
+
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Locust](https://img.shields.io/badge/Locust-9C3AFF?style=flat-square)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+
+**Also worked with:**
+
+![Hazelcast](https://img.shields.io/badge/Hazelcast-0D7CBC?style=flat-square&logo=hazelcast&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=flat-square)
+![Nexus](https://img.shields.io/badge/Nexus-68A138?style=flat-square)
+
+---
+
+## 📌 Featured Projects
+
+### [voxx-car-systems-project](https://github.com/CemAkr30/voxx-car-systems-project)
+Fleet management system with **Hexagonal Architecture, DDD, CQRS, Kafka, WebSocket, Keycloak, Couchbase**. Full-stack: Spring Boot backend + React frontend. CI/CD with GitHub Actions.
+
+### [api-gateway](https://github.com/CemAkr30/api-gateway)
+Production API Gateway I designed and built at GİB. Spring Cloud Gateway with **custom authorization filters, request tracing, pre/post logging, method-based timeouts**. Deployed via Helm on Kubernetes.
+
+### [non-functional-testing-service](https://github.com/CemAkr30/non-functional-testing-service)
+Performance testing infrastructure with **Locust master-worker** architecture. I wrote a custom HTTP proxy middleware to integrate Locust with the enterprise API Gateway and Ingress.
+
+### [data-provider-gateway](https://github.com/CemAkr30/data-provider-gateway)
+Dynamic multi-database gateway with **runtime repository resolution**. Single generic endpoint routes requests to the correct database and table based on declaration type.
+
+### [clean-hexagonal-architecture-outbox-kafka](https://github.com/CemAkr30/clean-hexagonal-architecture-outbox-kafka)
+Food ordering system implementing **Saga, Outbox, CQRS** patterns across 4 microservices with Kafka event-driven communication and Avro serialization.
+
+### [ticketing-project](https://github.com/CemAkr30/ticketing-project)
+Microservice ticketing system with **Node.js, Kubernetes, Ingress Nginx, NATS**. Published as npm package. Demonstrates polyglot microservice architecture.
+
+---
+
+## 📝 Writing
+
+- [Locust Performance Testing: Master-Worker Architecture and Proxy Middleware](https://medium.com/@cemakar6/locust-ile-performans-testi-master-worker-yap%C4%B1s%C4%B1-ve-proxy-middleware-c8e224b6de5f)
+
+---
+
+## 📊 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CemAkr30&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true)
+
+---
+
+## 📫 Reach Out
+
+- 📧 [cem.akar6@gmail.com](mailto:cem.akar6@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/cem-akar-5bb409240/)
+
+---
+
+*Currently learning: AWS (SAA prep) · Exploring: Spring AI, RAG, Platform Engineering*
