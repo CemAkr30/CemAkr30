@@ -19,6 +19,7 @@ I focus on **platform engineering** — designing shared infrastructure that oth
 - Created a **queue management service** with RabbitMQ, Hazelcast fallback, Outbox Pattern, and Leader Election
 - Developed a **performance testing infrastructure** using Locust master-worker architecture with custom proxy middleware
 - Built **common library ecosystem** (5 shared JARs) used across all microservices in the organization
+- At GİB Teknoloji, I contribute to the development and maintenance of critical government systems supporting Turkey's tax and declaration infrastructure.
 
 ---
 
