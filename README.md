@@ -4,7 +4,7 @@
 
 I design and build platform-level infrastructure: API Gateways, cache management systems, message queue services, and performance testing tools. I care about clean architecture, reliable distributed systems, and solving real problems at scale.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cem-akar-5bb409240/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cemakar)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@MstroCA)
 
 ---
