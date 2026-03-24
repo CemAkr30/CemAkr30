@@ -100,6 +100,9 @@ Food ordering system implementing **Saga, Outbox, CQRS** patterns across 4 micro
 ### [ticketing-project](https://github.com/CemAkr30/ticketing-project)
 Microservice ticketing system with **Node.js, Kubernetes, Ingress Nginx, NATS**. Published as npm package. Demonstrates polyglot microservice architecture.
 
+### [global-rate-limiter-system](https://github.com/CemAkr30/global-rate-limiter-system)
+Production-grade, multi-layer rate limiting with Spring Cloud Gateway, Redis (Token Bucket), and optional Kafka-based global sliding window aggregation. Single-region AWS deploy via Terraform.
+
 ---
 
 ## 📝 Writing
