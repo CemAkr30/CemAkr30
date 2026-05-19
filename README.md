@@ -104,6 +104,9 @@ Microservice ticketing system with **Node.js, Kubernetes, Ingress Nginx, NATS**.
 ### [global-rate-limiter-system](https://github.com/CemAkr30/global-rate-limiter-system)
 Production-grade, multi-layer rate limiting with Spring Cloud Gateway, Redis (Token Bucket), and optional Kafka-based global sliding window aggregation. Single-region AWS deploy via Terraform.
 
+### [helix-gateway](https://github.com/MstroCA/helix-gateway.git)
+Production-grade, licensable API gateway built in Go. Helix is a high-performance API gateway for teams that need fine-grained traffic control, deep observability, and an extensible plugin model — without the operational overhead of traditional gateway solutions.
+
 ---
 
 ## 📝 Writing
